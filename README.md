@@ -8,3 +8,5 @@ local areas will need to manage their CAV systems in quite similar ways as exist
 management is well-studied, the dynamic nature of traffic conditions constantly changes. Emergency service requirements are not considered by existing systems, which depend on predetermined ways of 
 removing obstacles from the roads and thus could block emergency routes. In addition, these systems struggle to adjust to real-time changes because it takes long to re-optimize them. To address this 
 challenge, SmartClear has devised effective methods of managing traf- fic that specifically suit emergency services, prioritizes road clearance planning and utilizes current traffic details.
+
+![image](https://github.com/AKay2410/SmartClear-AI-traffic-Mangement-System/assets/149990259/668da43f-786d-4aab-8d1f-7ae59880546d)
