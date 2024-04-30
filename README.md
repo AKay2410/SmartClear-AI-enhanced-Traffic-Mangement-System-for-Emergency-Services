@@ -1,4 +1,4 @@
-# SmartClear-AI-traffic-Mangement-System
+# SmartClear-AI-traffic-Mangement-System-for-Emergency-Services
 
 SmartClear project aims at addressing this gap through coming up with automated traffic signal preemption system suitable for emergency vehicles only. SmartClear helps in pro- viding real-time 
 support to on-site traffic management by using big data analytics together with AI. At the moment, current traffic management is urban-handled signals that change timing based on sensor data. 
